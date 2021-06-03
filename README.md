@@ -13,7 +13,7 @@ whether it is face-to-face collaboration or virtual collaboration the culture in
 Having said that here are some tools i used in past few months for collaborating virtually with people.
 
 ### Conferencing and Collaboration <br/>
-[DISCORD](https://discord.com/why-discord-is-different)
+[DISCORD](https://github.com/PHAGUN-JAIN/VirtualCollaboration-GUIDE/blob/main/assets/Discord.md)
 
 [SLACK](https://slack.com/intl/en-in/)
 
