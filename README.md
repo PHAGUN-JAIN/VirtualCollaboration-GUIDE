@@ -21,7 +21,17 @@ Zoom/Teams/Meet
 
 
 
- ### Resource sharing
+### Resource sharing
 [DRIVE]()
 
 [Dropbox](https://www.dropbox.com/?_hp=c)
+
+
+
+### Brain Stroming
+live boards <br />
+[conceptBoard](https://conceptboard.com/) (better option)<br/>
+or  <br/>
+figma jamfile(limited to 3 files for free plan)
+
+[google docs](https://www.google.com/docs/about/)
